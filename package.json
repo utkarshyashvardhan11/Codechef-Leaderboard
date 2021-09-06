@@ -1,0 +1,14 @@
+{
+  "name": "codechef-data-extract",
+  "version": "1.0.0",
+  "description": "codechef-data-extract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh Yashvardhan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
